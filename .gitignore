@@ -1,0 +1,7 @@
+*.o
+airport_simulator
+*.swp
+*.swo
+*~
+.DS_Store
+
